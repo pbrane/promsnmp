@@ -1,0 +1,71 @@
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+### Java ###
+*.class
+*.jar
+*.war
+*.ear
+*.jmod
+
+### macOS ###
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+### Maven ###
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+### Gradle ###
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+### Eclipse ###
+.project
+.classpath
+.settings/
+
+### Logs ###
+logs/
+log/
+*.log
+*.log.*
+
+### Spring Boot ###
+/bin/
+/BOOT-INF/
+*.pid
+*.gz
+
+### Environment Files ###
+.env
+*.env
+
+### Lombok ###
+.lombok
+
+### Editor/IDE ###
+*.swp
+*.swo
+*.bak
+*.tmp
+*.~*
+.vscode/
+
+### jenv ###
+.java-version
