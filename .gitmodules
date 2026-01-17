@@ -1,0 +1,9 @@
+[submodule "promsnmp-common"]
+	path = promsnmp-common
+	url = git@github.com:pbrane/promsnmp-common.git
+[submodule "promsnmp-metrics"]
+	path = promsnmp-metrics
+	url = git@github.com:pbrane/promsnmp-metrics.git
+[submodule "promsnmp-controller"]
+	path = promsnmp-controller
+	url = git@github.com:pbrane/promsnmp-controller.git
